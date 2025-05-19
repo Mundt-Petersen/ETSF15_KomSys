@@ -1,1 +1,3 @@
-# ETSF15_KomSys
+# ETSF15 Kommunikationssystem och nätverk
+
+Arduinolaborationer till ETSF15 Kommunikationssystem och nätverk @ LTH
