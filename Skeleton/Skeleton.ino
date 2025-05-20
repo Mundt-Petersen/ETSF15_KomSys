@@ -223,7 +223,7 @@ void l1_send(unsigned long frame, int framelen) {
       digitalWrite(PIN_TX, LOW);
     }
     delay(T_S);
-    //Serial.println(frame);
+    digitalWrite(PIN_TX, LOW);
   }
 }
 
